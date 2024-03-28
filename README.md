@@ -10,6 +10,7 @@ In Home.py we need to add AWS Credentials to connect with s3
 
 ### Architecture
 
+![Architecture](https://github.com/SIRAPURUPA/Quill-by-Voice-Project/assets/110527772/18ce7a37-07f5-4eb4-9ffe-08da3cd68fb5)
 
 
 ### Steps
