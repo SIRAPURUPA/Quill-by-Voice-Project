@@ -33,3 +33,7 @@ In Home.py we need to add AWS Credentials to connect with s3
 4. That file will directly sent to the AWS Transcribe and randomly creates a job and its converts the audio file into text.
 5. That output text will store into the S3 bucket in JSON format.
 6. We can see the final text by downloading the JSON file.
+
+## LinkedIn Article
+
+https://www.linkedin.com/pulse/development-web-application-audio-transcription-using-rupavathi-rmh6c/?trackingId=mo26I4%2BsTZKPDbMfLXCtlw%3D%3D
